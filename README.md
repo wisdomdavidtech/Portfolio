@@ -1,5 +1,11 @@
 # Wisdom David — Solutions Architect portfolio
 
+**Live website:** https://wisdomdavidtech.github.io/Portfolio/
+
+**Repository:** https://github.com/wisdomdavidtech/Portfolio
+
+GitHub Pages is configured to deploy from `main` at `/(root)`. Commits to that branch publish updates automatically. The steps below can also be used to deploy a separate copy.
+
 A responsive, standalone HTML/CSS/JavaScript portfolio. No framework, account integration, build command, package installation, or external fonts required. All paths are relative, so it works at both a GitHub user-site URL and a project-site URL. Open `index.html` in your browser to preview it locally.
 
 ## Files
@@ -120,11 +126,11 @@ The email link opens the visitor's email application; there is no contact form o
 - Test at phone and desktop widths. The design honors reduced-motion preferences and has keyboard focus styles and a skip link.
 - Keep filenames lowercase without spaces, and keep relative paths such as `assets/photo.jpg` (without a leading slash) so project-repository deployment works.
 
-The ZIP is a deliverable, not a published site. Follow the steps above to put it online under your GitHub account.
+The ZIP contains the source files for the deployed site. Keep relative asset paths so the `/Portfolio/` address continues to work.
 
 
 ## Design revision
 
 The latest visual pass introduces a prominent portrait, blue/navy palette, contrasting italic headline, credential ribbon, real badge artwork, distinct engineering illustrations, and direct LinkedIn/GitHub links. All three certifications and five courses remain visible; JavaScript is still limited to the mobile menu. No framework or external font was added.
 
-The file browser refused automated access to the local-file page. This revision was checked through source structure, asset validation, image inspection, and link checks; a fresh browser rendering has not been verified. Open `index.html` and refresh your existing tab to see it.
+The live GitHub Pages deployment was checked in the browser: homepage and credentials rendered correctly, all 15 images loaded, and the downloaded public CV matched the local PDF. The first Pages deployment completed successfully.
