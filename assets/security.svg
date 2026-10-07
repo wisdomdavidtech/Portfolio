@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720" role="img" aria-label="Security across two layers.">
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8da2c4" opacity=".18"/></pattern></defs>
+<rect width="1000" height="720" fill="#132339"/><rect width="1000" height="720" fill="url(#grid)"/>
+<text x="65" y="85" fill="#ffb87a" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">04 / NETWORKS &amp; DELIVERY WORKFLOWS</text>
+<text x="65" y="142" fill="#fff" font-family="Arial,sans-serif" font-size="37" font-weight="bold">Security across two layers.</text>
+<rect x="65" y="245" width="410" height="105" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="85" y="269" width="6" height="24" rx="3" fill="#ffb87a"/>
+<text x="107" y="289" font-family="Arial,sans-serif" font-size="23" fill="#fff">VPC networking</text>
+<text x="87" y="322" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Public and private subnets</text><rect x="65" y="400" width="410" height="105" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="85" y="424" width="6" height="24" rx="3" fill="#ffb87a"/>
+<text x="107" y="444" font-family="Arial,sans-serif" font-size="23" fill="#fff">Access and egress</text>
+<text x="87" y="477" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Bastion host · NAT gateway</text><rect x="525" y="245" width="410" height="105" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="545" y="269" width="6" height="24" rx="3" fill="#ffb87a"/>
+<text x="567" y="289" font-family="Arial,sans-serif" font-size="23" fill="#fff">Bitbucket Pipelines</text>
+<text x="547" y="322" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Dependency and secret scanning</text><rect x="525" y="400" width="410" height="105" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="545" y="424" width="6" height="24" rx="3" fill="#ffb87a"/>
+<text x="567" y="444" font-family="Arial,sans-serif" font-size="23" fill="#fff">Security notifications</text>
+<text x="547" y="477" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Automated email alerts</text>
+<path d="M65 618H935" stroke="#354961"/><text x="65" y="661" fill="#a9b9cf" font-family="Arial,sans-serif" font-size="16">Simplified illustration based on CV · not an original deployment diagram</text></svg>

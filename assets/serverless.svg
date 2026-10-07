@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720" role="img" aria-label="A serverless migration toolkit.">
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8da2c4" opacity=".18"/></pattern></defs>
+<rect width="1000" height="720" fill="#132339"/><rect width="1000" height="720" fill="url(#grid)"/>
+<text x="65" y="85" fill="#ccb0ff" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">03 / SLACK DATA MIGRATION</text>
+<text x="65" y="142" fill="#fff" font-family="Arial,sans-serif" font-size="37" font-weight="bold">A serverless migration toolkit.</text>
+<rect x="65" y="300" width="230" height="115" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="85" y="324" width="6" height="24" rx="3" fill="#ccb0ff"/>
+<text x="107" y="344" font-family="Arial,sans-serif" font-size="23" fill="#fff">Slack data</text>
+<text x="87" y="377" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Migration scope</text><rect x="380" y="300" width="240" height="115" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="400" y="324" width="6" height="24" rx="3" fill="#ccb0ff"/>
+<text x="422" y="344" font-family="Arial,sans-serif" font-size="23" fill="#fff">AWS Lambda</text>
+<text x="402" y="377" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Serverless compute</text><rect x="700" y="235" width="230" height="115" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="720" y="259" width="6" height="24" rx="3" fill="#ccb0ff"/>
+<text x="742" y="279" font-family="Arial,sans-serif" font-size="23" fill="#fff">Amazon S3</text>
+<text x="722" y="312" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Storage</text><rect x="700" y="405" width="230" height="115" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="720" y="429" width="6" height="24" rx="3" fill="#ccb0ff"/>
+<text x="742" y="449" font-family="Arial,sans-serif" font-size="23" fill="#fff">DynamoDB</text>
+<text x="722" y="482" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Data persistence</text><path d="M295 355H380M620 355H665V290H700M665 355V460H700" fill="none" stroke="#ccb0ff" stroke-width="2"/>
+<path d="M65 618H935" stroke="#354961"/><text x="65" y="661" fill="#a9b9cf" font-family="Arial,sans-serif" font-size="16">Simplified illustration based on CV · not an original deployment diagram</text></svg>

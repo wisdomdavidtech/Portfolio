@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720" role="img" aria-label="Visibility across the stack.">
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8da2c4" opacity=".18"/></pattern></defs>
+<rect width="1000" height="720" fill="#132339"/><rect width="1000" height="720" fill="url(#grid)"/>
+<text x="65" y="85" fill="#b8e1aa" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">02 / MONITORING &amp; OBSERVABILITY</text>
+<text x="65" y="142" fill="#fff" font-family="Arial,sans-serif" font-size="37" font-weight="bold">Visibility across the stack.</text>
+<rect x="65" y="220" width="865" height="345" rx="15" stroke="#597087" stroke-dasharray="8 7" fill="none"/><text x="90" y="255" font-family="Arial,sans-serif" font-size="16" fill="#b3c5dc">AWS EC2 · DOCKER COMPOSE</text><rect x="100" y="300" width="360" height="100" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="120" y="324" width="6" height="24" rx="3" fill="#b8e1aa"/>
+<text x="142" y="344" font-family="Arial,sans-serif" font-size="23" fill="#fff">cAdvisor + Node Exporter</text>
+<text x="122" y="377" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Container and host metrics</text><rect x="535" y="300" width="355" height="100" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="555" y="324" width="6" height="24" rx="3" fill="#b8e1aa"/>
+<text x="577" y="344" font-family="Arial,sans-serif" font-size="23" fill="#fff">Prometheus</text>
+<text x="557" y="377" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Metrics collection</text><rect x="100" y="435" width="360" height="100" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="120" y="459" width="6" height="24" rx="3" fill="#b8e1aa"/>
+<text x="142" y="479" font-family="Arial,sans-serif" font-size="23" fill="#fff">Grafana</text>
+<text x="122" y="512" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Dashboards</text><rect x="535" y="435" width="355" height="100" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="555" y="459" width="6" height="24" rx="3" fill="#b8e1aa"/>
+<text x="577" y="479" font-family="Arial,sans-serif" font-size="23" fill="#fff">Alertmanager</text>
+<text x="557" y="512" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Alert rules and notifications</text>
+<path d="M65 618H935" stroke="#354961"/><text x="65" y="661" fill="#a9b9cf" font-family="Arial,sans-serif" font-size="16">Simplified illustration based on CV · not an original deployment diagram</text></svg>

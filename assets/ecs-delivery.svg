@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720" role="img" aria-label="Infrastructure meets delivery.">
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8da2c4" opacity=".18"/></pattern></defs>
+<rect width="1000" height="720" fill="#132339"/><rect width="1000" height="720" fill="url(#grid)"/>
+<text x="65" y="85" fill="#7ca3ff" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">01 / AUTOMATED CONTAINER DEPLOYMENTS</text>
+<text x="65" y="142" fill="#fff" font-family="Arial,sans-serif" font-size="37" font-weight="bold">Infrastructure meets delivery.</text>
+<rect x="65" y="250" width="255" height="110" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="85" y="274" width="6" height="24" rx="3" fill="#7ca3ff"/>
+<text x="107" y="294" font-family="Arial,sans-serif" font-size="23" fill="#fff">GitHub Actions</text>
+<text x="87" y="327" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">CI/CD workflow</text><rect x="370" y="250" width="255" height="110" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="390" y="274" width="6" height="24" rx="3" fill="#7ca3ff"/>
+<text x="412" y="294" font-family="Arial,sans-serif" font-size="23" fill="#fff">Amazon ECR</text>
+<text x="392" y="327" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Container images</text><rect x="675" y="250" width="255" height="110" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="695" y="274" width="6" height="24" rx="3" fill="#7ca3ff"/>
+<text x="717" y="294" font-family="Arial,sans-serif" font-size="23" fill="#fff">ECS Fargate</text>
+<text x="697" y="327" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Container deployments</text><path d="M320 305H370M625 305H675" stroke="#7ca3ff" stroke-width="3"/><path d="m359 298 11 7-11 7m305-14 11 7-11 7" fill="none" stroke="#7ca3ff" stroke-width="3"/><rect x="280" y="435" width="440" height="110" rx="12" fill="#1d314a" stroke="#456184"/>
+<rect x="300" y="459" width="6" height="24" rx="3" fill="#b8e1aa"/>
+<text x="322" y="479" font-family="Arial,sans-serif" font-size="23" fill="#fff">Terraform</text>
+<text x="302" y="512" font-family="Arial,sans-serif" font-size="17" fill="#b3c5dc">Infrastructure as Code</text><path d="M500 435V400H802V360" fill="none" stroke="#b8e1aa" stroke-width="2" stroke-dasharray="7 7"/>
+<path d="M65 618H935" stroke="#354961"/><text x="65" y="661" fill="#a9b9cf" font-family="Arial,sans-serif" font-size="16">Simplified illustration based on CV · not an original deployment diagram</text></svg>
